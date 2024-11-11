@@ -25,6 +25,6 @@ Beyond these 10 tests, I originally did tests for the whole navigation flow, inc
 
 Notes: 
 - Imported cypress-each for easier implementation. Import statement is in cypress/support/e2e.js
-- Grade 8 Science and Technology (Bug?): When testing all the subject cards for all grades, I noticed that grade 8 Science and Technology card was behaving weirdly on cypress. Upon inspection, it seems like the DOM for this card is duplicated and placed on top of another. Had to force click it to proceed with tests. See image below.
+- Grade 8 Science and Technology (Bug?): When testing all the subject cards for all grades, I noticed that grade 8 Science and Technology card was behaving weirdly on cypress. Upon inspection, it seems like the DOM for this card is duplicated and placed on top of another. Had to force click it to proceed with tests. This was only happening for this specific card (Grade 8, Science and Technology). See image below. 
 ![image](https://github.com/user-attachments/assets/cff532e7-a04f-4987-8f3b-0be9d5245be7)
 
