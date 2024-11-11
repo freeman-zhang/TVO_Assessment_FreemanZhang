@@ -6,4 +6,5 @@ Notes:
 ![image](https://github.com/user-attachments/assets/cff532e7-a04f-4987-8f3b-0be9d5245be7)
 - Grade 1 to 6 content tests: I only wrote the tests for grade 1 content because it is repeated for grades 2-6. I left it out because if I were to put it all in one file, the that test file would take 30 mins to complete. And I only had 10 tests, so I chose to omit the rest for simplicity. 
 - Grade 1 to 8 subject tabs: For each subject from grade 1 to 8, there are multiple sub sections per subject. The testing for those is the same with one adding tab click, so I omitted it due to redundancy for the sake of the assessment. In a work setting, I would include it
+- Grade 8 content tests: I skipped grade 8 content tests as it is nearly identical to grade 7 other than the one change mentioned above due to grade 8 Science and Tech tab behaving weirdly.
 
