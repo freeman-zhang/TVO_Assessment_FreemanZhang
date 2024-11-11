@@ -18,7 +18,7 @@ I wanted to test for the basic functionality of all clickable buttons and ensure
 - Header and logo is rendered and is still working on this page
 
 **Execution results**
-All tests are working as intended. Except test for the return to top button. Cypress test fails stating that "an uncaught error originating from your application" was found - "Failed to execute 'querySelector' on 'Document': '#' is not a valid selector". I chose to ignore this as the test case should be working, but Cypress stated a code error, so I let this test fail.
+All tests are working as intended. Except test for the return to top button. Cypress test fails stating that "an uncaught error originating from your application" was found - "Failed to execute 'querySelector' on 'Document': '#' is not a valid selector". I chose to ignore this as the test case should be working, but Cypress stated a code error, so I let this test fail. (screenshots are shown)
 
 
 Beyond these 10 tests, I originally did tests for the whole navigation flow, including all other grades and subjects. They are in the other test files; feel free to disregard them or take a look.
