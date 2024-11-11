@@ -1,0 +1,16 @@
+{
+    "name": "tvo_assessment_freemanzhang",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "cypress:open": "cypress open",
+        "cypress:run": "cypress run"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress-each": "^1.14.0"
+    }
+}
